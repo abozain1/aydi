@@ -40,6 +40,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 
 ## Notes
 
+- disable strict mode for development
 - The UI is kept simple due to time constraints but delivers the expected user experience and functionality.
 - Local data is used for convenience and time-saving.
 - The project is deployed at: [https://aydi.vercel.app/](https://aydi.vercel.app/).
